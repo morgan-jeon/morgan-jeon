@@ -1,7 +1,7 @@
 # My name is MorganKR !
 - Hello, my name is Morgan Jeon.<br/>
 - I am Student Developer of Korea.<br/>
-- 고등학교 3학년, 입시를 앞두고 있습니다! <br/>
+-  <br/>
 
 # Projects!
 I am doing something mysterious
